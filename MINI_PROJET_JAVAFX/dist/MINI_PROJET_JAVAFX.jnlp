@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="MINI_PROJET_JAVAFX.jnlp">
+  <information>
+    <title>MINI_PROJET_JAVAFX</title>
+    <vendor>Hp</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="MINI_PROJET_JAVAFX.jar" size="17093" download="eager" />
+    <jar href="lib\mysql-connector-java-8.0.17.jar" size="2321813" download="eager" />
+    <jar href="lib\pdfbox-app-3.0.0-alpha3.jar" size="10877250" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="mini_projet_javafx.MINI_PROJET_JAVAFX"  name="MINI_PROJET_JAVAFX" />
+  <update check="always"/>
+</jnlp>
