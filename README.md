@@ -9,12 +9,13 @@
 
 </ul>
 <h3>Configuration de la base de données </h3>
---
--- Base de données : `projet`
---
+
+<h4> Base de données :</h4>
+`projet`
 
 
--- Structure de la table `etudiant`
+
+<h4> Structure de la table `etudiant` : </h4>
 
 
 CREATE TABLE `etudiant` (
