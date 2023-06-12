@@ -13,11 +13,9 @@
 -- Base de données : `projet`
 --
 
--- --------------------------------------------------------
 
---
 -- Structure de la table `etudiant`
---
+
 
 CREATE TABLE `etudiant` (
   `nom` varchar(50) DEFAULT NULL,
@@ -34,4 +32,4 @@ CREATE TABLE `etudiant` (
   `filiere` varchar(50) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
---
+
