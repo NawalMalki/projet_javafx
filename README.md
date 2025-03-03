@@ -31,7 +31,4 @@ CREATE TABLE etudiant (
   mentionBac varchar(50) DEFAULT NULL,
   filiere varchar(50) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-```
 
-## Remarque
-Assurez-vous d'adapter les noms de fichiers, les chemins, et autres détails selon la structure réelle de votre projet.
